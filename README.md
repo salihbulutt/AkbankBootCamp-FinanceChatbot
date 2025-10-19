@@ -11,8 +11,8 @@ A finance assistant chatbot using Google Gemini AI and RAG (Retrieval Augmented 
 
 ### 1. Clone or Download this Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/salihbulutt/AkbankBootCamp-FinanceChatbot.git
+cd AkbankBootCamp-FinanceChatbot
 ```
 
 ### 2. Install Python Packages
