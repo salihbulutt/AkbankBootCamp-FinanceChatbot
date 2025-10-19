@@ -38,7 +38,17 @@ pip install streamlit langchain langchain-google-genai langchain-community chrom
 ```bash
 streamlit run finance_rag_app.py
 ```
-
+## 🗂️ Project Structure
+```
+your-project-folder/
+├── .gitignore                    ← Tells Git what to ignore
+├── .streamlit/
+│   ├── secrets.toml              ← YOUR SECRET (not uploaded)
+│   └── secrets.toml.example      ← Template (uploaded)
+├── finance_rag_app.py            ← Your main code
+├── README.md                     ← Instructions
+└── requirements.txt              ← Package list
+```
 ## ⚠️ Important Notes
 - **NEVER** share your `secrets.toml` file!
 - The `.gitignore` file prevents `secrets.toml` from being uploaded to GitHub
@@ -56,16 +66,3 @@ streamlit run finance_rag_app.py
 - [LangChain Documentation](https://python.langchain.com)
 - [Google Gemini AI](https://ai.google.dev)
 ```
-
-## 🗂️ **Step 6: Check Your Folder Structure**
-
-Your project should look like this:
-```
-your-project-folder/
-├── .gitignore                    ← Tells Git what to ignore
-├── .streamlit/
-│   ├── secrets.toml              ← YOUR SECRET (not uploaded)
-│   └── secrets.toml.example      ← Template (uploaded)
-├── finance_rag_app.py            ← Your main code
-├── README.md                     ← Instructions
-└── requirements.txt              ← Package list
