@@ -32,7 +32,7 @@ pip install streamlit langchain langchain-google-genai langchain-community chrom
 
 **Your `.streamlit` folder should have:**
 - ✅ `secrets.toml.example` (this gets uploaded to GitHub)
-- ✅ `secrets.toml` (this stays on YOUR computer only)
+- ✅ `secrets.toml` (this stays on computer only)
 
 ### 5. Run the App
 ```bash
@@ -43,9 +43,8 @@ streamlit run finance_rag_app.py
 your-project-folder/
 ├── .gitignore                    ← Tells Git what to ignore
 ├── .streamlit/
-│   ├── secrets.toml              ← YOUR SECRET (not uploaded)
-│   └── secrets.toml.example      ← Template (uploaded)
-├── finance_rag_app.py            ← Your main code
+│   └── secrets.toml.example      ← Template
+├── finance_rag_app.py            ← Main code
 ├── README.md                     ← Instructions
 └── requirements.txt              ← Package list
 ```
