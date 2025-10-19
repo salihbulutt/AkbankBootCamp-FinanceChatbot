@@ -57,30 +57,6 @@ streamlit run finance_rag_app.py
 - [Google Gemini AI](https://ai.google.dev)
 ```
 
-3. **Save** the file
-
----
-
-## 📦 **Step 5: Create requirements.txt**
-
-This lists all the Python packages needed.
-
-### **Action:**
-
-1. In your project folder, create `requirements.txt`
-2. Paste this:
-```
-streamlit
-langchain
-langchain-google-genai
-langchain-community
-chromadb
-```
-
-3. **Save** the file
-
----
-
 ## 🗂️ **Step 6: Check Your Folder Structure**
 
 Your project should look like this:
