@@ -1,7 +1,5 @@
+streamlit
+langchain
 langchain-google-genai
 langchain-community
-langchain-core
-langchain
 chromadb
-python
-streamlit
