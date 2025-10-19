@@ -1,3 +1,4 @@
 # AkbankBootCamp-FinanceChatbot
 
-![FinanceChatbot](https://github.com/user-attachments/assets/a75cc0e5-5474-46f6-91be-2a8fd2bfc9f6)
+
+<img width="1344" height="450" alt="FinaceNew" src="https://github.com/user-attachments/assets/ca20fe6a-1f01-4792-9311-0a5222a83ba1" />
