@@ -1,0 +1,9 @@
+langchain-google-genai
+langchain-community
+langchain-core
+google-genai
+sentence-transformers
+datasets
+chromadb
+python
+streamlit
