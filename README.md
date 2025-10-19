@@ -7,6 +7,41 @@
 
 A finance assistant chatbot using Google Gemini AI and RAG (Retrieval Augmented Generation).
 
+## 📋 About This Project
+
+This is an AI-powered finance chatbot that helps you understand financial concepts quickly and easily.
+
+### What does it do?
+
+- **Answers finance questions** using Google's Gemini AI
+- **Searches through finance knowledge** to give you accurate answers
+- **Explains complex terms** in simple language
+- **Remembers your conversation** so you can ask follow-up questions
+
+### How does it work?
+
+1. You ask a question about finance (like "What is equity?" or "Explain bonds")
+2. The chatbot searches through its finance knowledge base
+3. It finds relevant information and creates a clear answer using AI
+4. You get an accurate, easy-to-understand response!
+
+### What topics can you ask about?
+
+- Assets, Liabilities, and Equity
+- Bonds and Stocks
+- Inflation and Diversification
+- Portfolios and Investments
+- Bull and Bear Markets
+- Dividends and Capital Gains
+- And more!
+
+### Technology Used
+
+- **Google Gemini AI** - For intelligent responses
+- **RAG (Retrieval Augmented Generation)** - To search and find relevant information
+- **LangChain** - To connect everything together
+- **Streamlit** - For the web interface
+
 ## 🚀 Setup Instructions
 
 ### 1. Clone or Download this Repository
